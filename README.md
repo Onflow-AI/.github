@@ -15,12 +15,18 @@ Most users drop off not because a product is bad but because the experience does
 
 This platform connects to your SaaS product and provides real-time **context signals** that let you:
 
-✅ Personalise onboarding flows. 
+✅ Personalise onboarding flows.
+
 ✅ Adapt feature surfaces automatically.
+
 ✅ Guide users intelligently based on behavior.
+
 ✅ Reduce friction and increase activation.
+
 ✅ Prevent silent churn.
+
 ✅ Build smarter UX with zero-engineering overhead.
+
 
 
 
