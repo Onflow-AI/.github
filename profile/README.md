@@ -52,5 +52,4 @@ Software should **respond**, not react.
 
 ---
 
-## 🏗️ Architecture Overview
 
