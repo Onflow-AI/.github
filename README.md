@@ -1,6 +1,6 @@
 
 
-**Turn static SaaS products into adaptive, intelligent experiences.**  
+## Switch on your intelligent flow.
 A Context-as-a-Service platform that turns SaaS products into adaptive experiences. We track user behavior and interaction patterns, then automatically change UI and feature surfaces in real-time.
 
 The result? Higher activation, faster time-to-value, and lower churn, without rewriting your product.
