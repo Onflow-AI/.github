@@ -41,7 +41,7 @@ This platform connects to your SaaS product and provides real-time **context sig
 | Churn is treated as a reporting metric | It should be prevented |
 | AI alone lacks context | Context is the foundation for personalisation |
 
-Software should **respond**—not react.
+Software should **respond**, not react.
 
 ---
 
